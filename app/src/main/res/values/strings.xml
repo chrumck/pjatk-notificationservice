@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationService</string>
+
+    <string name="myshoppinglist_action_product_created">com.chrumck.pjatk.myshoppinglist.PRODUCT_CREATED</string>
+
+    <string name="app_permission_broadcast_rec">com.chrumck.pjatk.notificationservice.permission.BROADCAST_REC</string>
+</resources>
