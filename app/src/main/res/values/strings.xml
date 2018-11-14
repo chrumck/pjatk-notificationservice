@@ -2,6 +2,9 @@
     <string name="app_name">NotificationService</string>
 
     <string name="myshoppinglist_action_product_created">com.chrumck.pjatk.myshoppinglist.PRODUCT_CREATED</string>
+    <string name="myshoppinglist_action_product_edit">com.chrumck.pjatk.myshoppinglist.PRODUCT_EDIT</string>
+    <string name="myshoppinglist_action_product_list">com.chrumck.pjatk.myshoppinglist.PRODUCT_LIST</string>
+
 
     <string name="app_permission_broadcast_rec">com.chrumck.pjatk.notificationservice.permission.BROADCAST_REC</string>
 </resources>
